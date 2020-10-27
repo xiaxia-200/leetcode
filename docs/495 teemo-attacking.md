@@ -32,7 +32,7 @@ class Solution {
 ### 方法二：解题思路
 首先假设攻击时间间隔都大于中毒持续时长duration，得出在该情况下的总中毒持续时间totalDuration。循环遍历数组，得出相邻两次攻击之间的时间间隔，若小于中毒持续时间duration，则使用k记录多计算在totalration中的时间。最后totalDuration减去k就得到最终的中毒持续时间。
 ### 代码
-```
+```java
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
         int totalDuration;
