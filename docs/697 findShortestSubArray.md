@@ -39,3 +39,42 @@ class Solution {
 ```
 ### 复杂度分析
 时间复杂度O(N^2)，空间复杂度O(1)
+
+### 优化
+### 解题思路
+以空间换时间，利用hashmap存储每个元素的相关信息，只需要遍历一次就可以得到每个元素的度以及它的始末位置，从而找出最小的子数组
+### 代码
+```java
+class Solution {
+    public int findShortestSubArray(int[] nums) {
+        Map<Integer, Integer> left = new HashMap();//记录元素起始位置
+        Map<Integer, Integer> right = new HashMap();//记录元素终点位置
+        Map<Integer, Integer> count = new HashMap();//记录元素出现的次数
+        int max=0,result=0;
+        for(int i=0; i<nums.length; i++){
+            if(!left.containsKey(nums[i])){
+                left.put(nums[i],i);
+                right.put(nums[i],i);
+                count.put(nums[i],1);
+            }
+            else if(right.containsKey(nums[i])){
+                right.put(nums[i],i);
+                count.put(nums[i],count.get(nums[i])+1);
+            }
+        }
+        for(int x : count.keySet()){
+            if(count.get(x) > max){
+                max = count.get(x);
+                result = right.get(x)-left.get(x)+1;
+            }
+            else if(count.get(x) == max){
+                if(right.get(x)-left.get(x)+1 < result)
+                    result = right.get(x)-left.get(x)+1;
+            }
+        }
+        return result;
+    }
+}
+```
+### 复杂度分析
+时间复杂度O(N)，空间复杂度O(N)
