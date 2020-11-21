@@ -7,3 +7,4 @@
 * [697 findShortestSubArray](https://github.com/xiaxia-200/leetcode/blob/master/docs/697%20findShortestSubArray.md)
 * [448 findDisappearedNumbers](https://github.com/xiaxia-200/leetcode/blob/master/docs/448%20findDisappearedNumbers.md)
 * [442 findDuplicates](https://github.com/xiaxia-200/leetcode/blob/master/docs/442%20findDuplicates.md)
+* [41 firstMissingPositive](https://github.com/xiaxia-200/leetcode/blob/master/docs/41%20firstMissingPositive.md)
