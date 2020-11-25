@@ -9,3 +9,4 @@
 * [442 findDuplicates](https://github.com/xiaxia-200/leetcode/blob/master/docs/442%20findDuplicates.md)
 * [41 firstMissingPositive](https://github.com/xiaxia-200/leetcode/blob/master/docs/41%20firstMissingPositive.md)
 * [274 hIndex](https://github.com/xiaxia-200/leetcode/blob/master/docs/274%20hIndex.md)
+* [453 minMoves](https://github.com/xiaxia-200/leetcode/blob/master/docs/453%20minMoves.md)
