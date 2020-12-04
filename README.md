@@ -11,3 +11,4 @@
 * [274 hIndex](https://github.com/xiaxia-200/leetcode/blob/master/docs/274%20hIndex.md)
 * [453 minMoves](https://github.com/xiaxia-200/leetcode/blob/master/docs/453%20minMoves.md)
 * [665 Non-decreasing sequence](https://github.com/xiaxia-200/leetcode/blob/master/docs/665%20Non-decreasing%20sequence.md)
+* [283 moveZeros](https://github.com/xiaxia-200/leetcode/blob/master/docs/283%20moveZeros.md)
