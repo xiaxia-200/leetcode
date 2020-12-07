@@ -12,4 +12,5 @@
 * [453 minMoves](https://github.com/xiaxia-200/leetcode/blob/master/docs/453%20minMoves.md)
 * [665 Non-decreasing sequence](https://github.com/xiaxia-200/leetcode/blob/master/docs/665%20Non-decreasing%20sequence.md)
 * [283 moveZeros](https://github.com/xiaxia-200/leetcode/blob/master/docs/283%20moveZeros.md)
-* [118 Pascal's triangle](https://github.com/xiaxia-200/leetcode/blob/master/docs/283%20moveZeros.md)
+* [118 Pascal's triangle](https://github.com/xiaxia-200/leetcode/blob/master/docs/283%20moveZeros.md)   
+* [119 Pascal's triangle2](https://github.com/xiaxia-200/leetcode/blob/master/docs/119%20%20Pascal's%20triangle2.md)
