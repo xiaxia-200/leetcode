@@ -14,3 +14,4 @@
 * [283 moveZeros](https://github.com/xiaxia-200/leetcode/blob/master/docs/283%20moveZeros.md)
 * [118 Pascal's triangle](https://github.com/xiaxia-200/leetcode/blob/master/docs/283%20moveZeros.md)   
 * [119 Pascal's triangle2](https://github.com/xiaxia-200/leetcode/blob/master/docs/119%20%20Pascal's%20triangle2.md)
+* [661 image smoother](https://github.com/xiaxia-200/leetcode/blob/master/docs/661%20image%20smoother.md)
