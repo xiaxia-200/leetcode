@@ -16,3 +16,4 @@
 * [119 Pascal's triangle2](https://github.com/xiaxia-200/leetcode/blob/master/docs/119%20%20Pascal's%20triangle2.md)
 * [661 image smoother](https://github.com/xiaxia-200/leetcode/blob/master/docs/661%20image%20smoother.md)
 * [598 range of summation](https://github.com/xiaxia-200/leetcode/blob/master/docs/598%20range%20of%20summation.md)
+* [419 battleships in a board](https://github.com/xiaxia-200/leetcode/blob/master/docs/419%20Battleships%20in%20a%20Board.md)
