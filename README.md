@@ -20,3 +20,4 @@
 * [189 rotate array](https://github.com/xiaxia-200/leetcode/blob/master/docs/189%20rotate%20array.md)
 * [396 rotate function](https://github.com/xiaxia-200/leetcode/blob/master/docs/396%20rotate%20function.md)
 * [54 helix matrix](https://github.com/xiaxia-200/leetcode/blob/master/docs/54%20helix%20matrix.md)
+* [59 helix matrix2](https://github.com/xiaxia-200/leetcode/blob/master/docs/59%20helix%20matrix2.md)
