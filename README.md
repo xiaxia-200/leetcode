@@ -22,3 +22,4 @@
 * [54 helix matrix](https://github.com/xiaxia-200/leetcode/blob/master/docs/54%20helix%20matrix.md)
 * [59 helix matrix2](https://github.com/xiaxia-200/leetcode/blob/master/docs/59%20helix%20matrix2.md)
 * [498 diagonal tranverse](https://github.com/xiaxia-200/leetcode/blob/master/docs/498%20Diagonal%20Traverse%20.md)
+* [566 matrixReshape](https://github.com/xiaxia-200/leetcode/blob/master/docs/566%20matrixReshape.md)
